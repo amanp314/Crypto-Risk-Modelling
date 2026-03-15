@@ -29,9 +29,9 @@ The project implements a quantitative workflow including:
 
 The main components of the project can be found in the following locations:
 
-- **Research report:** `docs/crypto_risk_dissertation.pdf`  
-- **Literature review:** `docs/crypto_risk_literature_review.pdf`  
-- **Project presentation:** `docs/crypto_risk_presentation.pdf`  
+- **Research report:** `crypto-risk-modelling/docs/Dissertation - The Applicability of Traditional Quantitative Risk Models in Stock and Crypto Markets.pdf`  
+- **Literature review:** `crypto-risk-modelling/docs/Literature Review of The Applicability of Traditional Quantitative Risk Models in Stock and Crypto Markets.pdf`  
+- **Project presentation:** `crypto-risk-modelling/docs/Presentation of The Applicability of Traditional Quantitative Risk Models in Stock and Crypto Markets.pdf`  
 
 ---
 
