@@ -1,10 +1,6 @@
 # Cryptocurrency Risk Modelling
 
-**Quantitative analysis of cryptocurrency market risk using econometric and machine learning approaches.**
-
-This project evaluates whether traditional financial risk models used in institutional finance remain effective when applied to cryptocurrency markets. The study compares traditional models with alternative approaches to assess their ability to capture the extreme volatility and structural characteristics of digital assets.
-
-The analysis focuses on **Bitcoin and Ethereum**, benchmarked against traditional market indices (**S&P 500 and Dow Jones Industrial Average**) using historical market data from **2020–2024**.
+This project evaluates whether traditional financial risk models used in institutional finance remain effective when applied to cryptocurrency markets by comparing conventional approaches with alternative modelling techniques to assess their ability to capture the extreme volatility and structural characteristics of digital assets; focusing on **Bitcoin and Ethereum**, benchmarked against traditional market indices (**S&P 500 and Dow Jones Industrial Average**) using historical market data from **2020–2024**.
 
 ## Key Findings
 
