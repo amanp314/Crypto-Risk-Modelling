@@ -25,4 +25,13 @@ The project implements a quantitative workflow including:
 **Libraries:** tidyverse, rugarch, PerformanceAnalytics, caret, tidytext  
 **Software:** RStudio, Power BI, Excel
 
+## Key Files
+
+The main components of the project can be found in the following locations:
+
+- **Research report:** `docs/crypto_risk_dissertation.pdf`  
+- **Literature review:** `docs/crypto_risk_literature_review.pdf`  
+- **Project presentation:** `docs/crypto_risk_presentation.pdf`  
+
 ---
+
